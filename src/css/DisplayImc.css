@@ -1,0 +1,42 @@
+.denutrition {
+  color: #535c68;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}
+.maigreur {
+  color: blue;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}
+.poids-normal {
+  color: #6ab04c;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}
+.surpoids {
+  color: #ff7979;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}
+.obesite-moderee {
+  color: #eb4d4b;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}
+.obesite-severe {
+  color: #b33771;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}
+.obesite-morbide {
+  color: red;
+  font-weight: 700;
+  background-color: white;
+  text-align: center;
+}

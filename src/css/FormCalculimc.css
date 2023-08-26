@@ -1,0 +1,49 @@
+.main {
+  display: flex;
+  flex-flow: row nowrap;
+
+  background-color: #dddccc;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  background-color: #eee;
+  width: 30%;
+  height: 60%;
+  box-shadow: black 0px 5px 15px;
+  padding: 30px;
+}
+.btn {
+  border-color: none;
+  border-radius: 15px;
+
+  padding: 5px;
+}
+.btnimc {
+  background-color: #58b19f;
+  color: white;
+  margin: 15px;
+  width: 250px;
+  height: 40px;
+}
+.btnimc:hover {
+  background-color: #0a2822;
+  color: white;
+}
+.imctitre {
+  background-color: #58b19f;
+  color: white;
+}
+.imcform {
+  display: flex;
+  flex-flow: column;
+
+  align-items: center;
+  justify-content: center;
+}
+.inputimc {
+  margin: 15px;
+  width: 200px;
+  height: 30px;
+}
